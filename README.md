@@ -25,9 +25,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [@YourTwitter](https://twitter.com/YourTwitter)
-
-Project Link: [https://github.com/your_username/your_project](#)
