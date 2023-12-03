@@ -1,0 +1,2 @@
+# Scriptable Bitcoin price and Fead and Geed Index
+ This Scriptable script displays current Bitcoin price and the Fear and Greed Index on iOS devices. It fetches Bitcoin price from Coindesk's API, showing the rate, description, and update time. The Fear and Greed Index is retrieved from Alternative.me's API, with the value determining the text color: green for greed and red for fear, enhancing visual understanding.
